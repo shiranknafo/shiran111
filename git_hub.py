@@ -1,4 +1,1 @@
-print("hello world")
-print("hi hi ")
-print("shiran")
-print("bye")
+print("shiran knafo shd' hatizionot 34 kiryat ata ")
